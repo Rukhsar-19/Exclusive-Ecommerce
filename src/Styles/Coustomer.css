@@ -7,7 +7,7 @@
   align-items: center;
   background: black;
   padding: 6px;
-  border: 7px solid rgb(193, 192, 192);
+  /* border: 7px solid rgb(193, 192, 192); */
 }
 .deliveryparent img {
   width: 100%;
